@@ -1,4 +1,4 @@
-sgp-lite-1
-==========
+sgp-lite-joao
+=============
 
-v1
+SGP Lite feito plo João Santos
